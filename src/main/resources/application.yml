@@ -1,0 +1,9 @@
+bot:
+  username: MotivationForNeBot
+  token: 5702165652:AAGYHhr4EtzMJxzQSUgXvjSxoz6EXTddu1U
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/kotlin_template
+    username: postgres
+    password: postgres
